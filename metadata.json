@@ -1,0 +1,7 @@
+{
+  "name": "OmniPOS - Inventory & Point of Sale",
+  "description": "A comprehensive, high-performance Inventory Management and Point of Sale system for small to medium businesses, featuring real-time tracking, fast checkout, and detailed analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
